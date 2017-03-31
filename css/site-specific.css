@@ -1,0 +1,112 @@
+body{
+    font-family: 'Sansita', sans-serif;
+}
+div.diagram img {
+    width: 200px;
+    margin-left: 250px;
+}
+
+div.image{
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+
+div.fig img {
+    width: 150px;
+}
+/*div.fig img hover style*/
+div.fig img:hover {
+    width: 500px;
+}
+div.fig p {
+    display: inline;
+    font-size: 0.5em;
+}
+
+h1{
+    color: #000000;
+    font-weight: 400;
+    font-size: 2.5em;
+    max-width: 800px;
+    text-align: left;
+    margin: 5px, 25px;
+}
+
+h2{
+    text-align: left;
+}
+
+h3{
+  font-size: 1.25em;
+    font-weight: 300;
+    max-width: 800px;
+    text-align: left;
+    margin-top: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+div.bio{
+    max-width: 800px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img.bioImage{
+    width: 300PX;
+    margin: 5px;
+    display: block;
+}
+
+div.bioText{
+    font-weight: 300;
+    font-size: 1.05em;
+    line-height: 130%;
+}
+
+div.bioText > a{
+    color: #000000;
+}
+
+div.bioText > a:hover{
+    background-color: #FFFF00; 
+}
+
+div.linkList{
+    max-width: 800px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+li.assignmentLink{
+    font-weight: 300;
+    font-size: 1.05em;
+    line-height: 130%;
+}
+
+li.assignmentLink > a{
+    color: #000000;
+}
+
+li.assignmentLink > a:hover{
+    background-color: #FFFF00; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
